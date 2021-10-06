@@ -1,0 +1,28 @@
+.uhuy {
+    background-color: #212529;
+    width: 100%;
+    height: 390px;
+}
+.uhuy p{
+    color: white;
+}
+.uhuy img{
+    width: 40%;
+    height: 50%;
+}
+.uhuy h4{
+    color: white;
+}
+.uhuy .border-bottom{
+    width: 50%;
+}
+.uhuy .list-group{
+    width: 50%;
+}
+.uhuy .card{
+    width: 70%;
+}
+.uhuy a{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
